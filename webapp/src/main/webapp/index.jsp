@@ -5,5 +5,5 @@
 <h2> We are done with DevOps Project-2 with Ansible deployment!! </h2>
 <h2> We are done with Docker deployment!! </h2>
 <h2> Please do the practice of our complete DevOps course!! </h2> 
-<h2> I am doing AWS <h2>
+
 		:
